@@ -11,9 +11,9 @@
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules: 🖐️ used
-  - ECMAScript modules: 🖐️ used
-  - node:module: 🖐️ used
+  - CommonJS modules: 🙋 explained
+  - ECMAScript modules: 🙋 explained
+  - node:module: 🙋 explained
   - Caching in CJS and ESM: 🎓 known
   - Modules as singletons: 🖐️ used
   - Contexts and scripts node:vm: 🖐️ used
@@ -21,26 +21,26 @@
   - Dependencies: package.json and package lock: 🙋 explained
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🎓 known
-  - Dependency injection: 👂 heard
-  - DI containers: 👂 heard
-  - Coupling and cohesion: 👂 heard
+  - Dependency injection: 🎓 known
+  - DI containers: 🎓 known
+  - Coupling and cohesion: 🎓 known
   - Framework agnostic approach: 🖐️ used
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 🎓 known
   - Node.js CLI: 🖐️ used
   - Process-based permissions: 
   - Graceful shutdown: 👂 heard
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 👂 heard
-  - Web Streams API: 
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
   - Crypto API: 
   - Password hashing with node:crypto.scrypt: 
   - Web Crypto API: 
   - File system API: sync and async: 👂 heard
-  - Copy folder recursively: 👂 heard
-  - Worker threads: 
+  - Copy folder recursively: 🎓 known
+  - Worker threads: 🎓 known
   - Performance hooks: 
   - Native fetch and nodejs/undici: 🎓 known
   - node:async_hooks:
@@ -50,9 +50,9 @@
   - Node.js single executable: 👂 heard
   - Stream back pressure: 
   - SharedArrayBuffer:
-  - node:worker_threads:
-  - node:child_process: 👂 heard
-  - MessageChannel, MessagePort: 👂 heard
+  - node:worker_threads: 🎓 known
+  - node:child_process: 🎓 known
+  - MessageChannel, MessagePort: 🎓 known
   - BroadcastChannel: 
   - Generating crypto random UUID: 
   - node:url vs new URL: 🎓 known
@@ -65,13 +65,13 @@
   - Multilayer approach: 👂 heard
   - Separation of concerns: 👂 heard
   - Inversion of control: 
-  - Dependency injection: 👂 heard
+  - Dependency injection: 🎓 known
   - GRASP: 🙋 explained
   - SOLID: 🙋 explained
   - GoF patterns: 
   - Distributed systems: 
   - Highload applications: 
-  - Clean architecture: 👂 heard
+  - Clean architecture: 🎓 known
   - DDD: 
   - Message Queue: 
   - CQS: 
@@ -89,9 +89,9 @@
   - HTTP(S): 🔬 researched
   - TCP/SSL: 🙋 explained
   - UDP: 🙋 explained
-  - TLS: 🎓 known
+  - TLS: 🙋 explained
   - Websocket: 🖐️ used
-  - SSE: 
+  - SSE: 🎓 known
   - HTTP/3 (QUIC): 
   - Long polling: 
   - REST: 🎓 known
@@ -109,40 +109,40 @@
   - noDelay: 👂 heard
   - keep-alive: 
   - ALPN: 
-  - SNI callback: 
+  - SNI callback: 🎓 known
   - SSL certificates: 🎓 known
-  - Protocol agnostic approach: 👂 heard
+  - Protocol agnostic approach: 🎓 known
 - Technique and tools
   - Native test runner:
   - Logging:
   - Application configuring:
   - Testing: 🖐️ used
-  - CI/CD: 👂 heard
+  - CI/CD: 🎓 known
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 
   - back pressure: 
   - Buffer: 🎓 known
-  - Console: 🖐️ used
+  - Console: 🙋 explained
   - Inspector:
   - Reliability:
   - Quality:
   - Availability:
-  - Flexibility:
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer: 👂 heard
-  - Repository: 👂 heard
-  - Active record:
+  - Repository: 🎓 known
+  - Active record: 👂 heard
   - Query builder: 👂 heard
   - Object-Relational Mapping:
 - Error handling and debugging
-  - Error: 🎓 known
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
-  - error.message: 🎓 known
-  - error.stack: 🎓 known
+  - Error: 🖐️ used
+  - error.cause: 🖐️ used
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
+  - error.stack: 🖐️ used
   - How to avoid mixins: 
-  - Error.captureStackTrace: 👂 heard
+  - Error.captureStackTrace: 🎓 known
   - Uncaught exceptions: 👂 heard
   - Heap dump: 
   - Debugging tools: 🎓 known
@@ -151,8 +151,8 @@
   - Resource leaks: 👂 heard
   - Data race: 
 - Integrations and bindings
-  - Native addons: 
-  - C and C++ addons: 
+  - Native addons: 🎓 known
+  - C and C++ addons: 🎓 known
   - Rust addons: 
   - Zig addons: 
   - NAN (Native Abstractions for Node.js): 

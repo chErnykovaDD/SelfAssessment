@@ -9,9 +9,9 @@
   - literal: 🔬 researched
   - expression: 🔬 researched
   - heap: 🙋 explained
-  - function: 🚀 constructed
-  - procedure: 🖐️ used
-  - method: 🚀 constructed
+  - function: 🔬 researched
+  - procedure: 🙋 explained
+  - method: 🔬 researched
   - class: 🔬 researched
   - prototype: 🙋 explained
   - event: 🔬 researched
@@ -19,12 +19,12 @@
   - primitive types: 🔬 researched
   - reference types: 🔬 researched
   - flag: 🔬 researched
-  - lexical scope: 🖐️ used
+  - lexical scope: 🙋 explained
   - code block: 🔬 researched
   - conditions: 🔬 researched
   - loops: 🔬 researched
   - assignment: 🔬 researched
-  - regular expression: 🖐️ used
+  - regular expression: 🙋 explained
   - interface: 🔬 researched
   - contract: 👂 heard
   - module: 🎓 known
@@ -34,7 +34,7 @@
   - argument: 🔬 researched
   - parameter: 🙋 explained
   - pure function: 🖐️ used
-  - lambda expression: 🖐️ used
+  - lambda expression: 🙋 explained
   - side effects: 🎓 known
   - closure: 🔬 researched
   - partial application: 🙋 explained
@@ -46,10 +46,10 @@
   - compose: 🖐️ used
   - pipe: 🙋 explained
   - memoize: 🙋 explained
-  - wrapper: 🖐️ used
+  - wrapper: 🙋 explained
   - functor: 🎓 known
-  - monad: 
-  - monoid: 
+  - monad: 👂 heard
+  - monoid: 👂 heard
   - generator: 🎓 known
   - coroutine: 
 - Data structures
@@ -66,10 +66,10 @@
   - linked list: 🖐️ used
   - doubly list: 🖐️ used
   - unrolled list: 🎓 known
-  - circular list: 🎓 known
+  - circular list: 🖐️ used
   - queue: 🙋 explained
   - stack: 🙋 explained
-  - deque: 👂 heard
+  - deque: 🎓 known
   - tree: 🔬 researched
   - graph: 🔬 researched
   - iterator: 🖐️ used
@@ -81,7 +81,7 @@
   - compiler: 🙋 explained
   - transpiler: 🎓 known
   - linter: 🔬 researched
-  - polyfill: 🖐️ used
+  - polyfill: 🙋 explained
   - debugger: 🙋 explained
   - garbage collection: 🙋 explained
   - refactoring: 🔬 researched
@@ -98,7 +98,7 @@
   - not invented here: 🎓 known
   - dead code: 👂 heard
   - unreachable code: 🙋 explained
-  - duplicate code: 🎓 known
+  - duplicate code: 🖐️ used
   - exception: 🙋 explained
   - return early: 🔬 researched
   - unittest: 🙋 explained

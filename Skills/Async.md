@@ -11,12 +11,12 @@
   - epoll: 
   - kqueue: 
   - Completion ports: 👂 heard
-  - Event ports: 👂 heard
-  - libuv: 
+  - Event ports: 🎓 known
+  - libuv: 🎓 known
   - Race conditions: 
   - Dead locks: 
   - Live locks: 
-  - Concurrent programming: 👂 heard
+  - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model: 
   - Thread: 🎓 known
@@ -30,31 +30,31 @@
   - Future: 
   - Deferred: 
   - Sync generator: 🎓 known
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 🔬 researched
   - Coroutine: 
   - Goroutine: 
-  - Signal: 
-  - Stream: 
+  - Signal: 👂 heard
+  - Stream: 👂 heard
   - Chain of responsibility: 🎓 known
   - Middleware: 👂 heard
   - Locks: 👂 heard
 - Async adapters and utils
   - callbackify: 
-  - promisify: 
+  - promisify: 👂 heard
   - asyncify: 
   - callbacks compose: 
   - async compose: 
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🎓 known
   - Observable/Observer:  👂 heard
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 
-  - Async Pool: 
-  - Async Queue: 
-  - Async Collector: 
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
   - Semaphore: 
   - Mutex: 
   - Spin Lock: 
@@ -67,7 +67,7 @@
   - Promise unhandled rejection: 🎓 known
   - Promise double resolve: 🎓 known
   - child_process: 👂 heard
-  - worker_threads: 
+  - worker_threads: 🎓 known
   - Atomics: 
   - High resolution clock: 
   - Callback hell: 
@@ -76,8 +76,8 @@
   - Error handling in async code: 🎓 known
   - Better stack traces with return await: 
   - JSON: streaming serialization: 
-  - promisify: 
-  - callbackify: 
+  - promisify: 👂 heard
+  - callbackify: 👂 heard
   - AsyncLocalStorage: 
   - AsyncResource: 
 - Techniques

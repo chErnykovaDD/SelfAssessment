@@ -10,9 +10,9 @@
   - Object-oriented programming: 🙋 explained
   - Object-based programming: 🙋 explained
   - Generic programming: 🎓 known
-  - Concurrent computing: 👂 heard
+  - Concurrent computing: 🎓 known
   - Asyncronous programming: 🖐️ used
-  - Parallel programming: 🎓 known
+  - Parallel programming: 🖐️ used
   - Reactive programming: 🎓 known
   - FRP (Functional-reactive): 
   - Automata-based programming: 👂 heard
@@ -31,21 +31,21 @@
   - Private fields: 🙋 explained
   - Field declarations: 🙋 explained
   - Inheritance: 🙋 explained
-  - Parent class: 🖐️ used
+  - Parent class: 🙋 explained
   - Polymorphism: 🙋 explained
   - Abstract class: 🙋 explained
   - Interface: 🔬 researched
   - Encapsulation: 🙋 explained
-  - Hidden class: 🎓 known
+  - Hidden class: 🖐️ used
   - Object form: 🙋 explained
   - instance: 🙋 explained
   - Introspection: 🎓 known
-  - Reflection: 🎓 known
+  - Reflection: 🖐️ used
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
-  - Abstract Factory: 👂 heard
-  - Adapter: 
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
   - Observer: 👂 heard
   - Strategy: 👂 heard
   - Facade: 👂 heard
@@ -53,14 +53,14 @@
   - Chain of Responsibility: 🎓 known
   - Command: 👂 heard
   - Iterator: 👂 heard
-  - State: 👂 heard
+  - State: 🎓 known
   - Bridge: 🎓 known
   - Builder: 🎓 known
   - Prototype: 🎓 known
   - Composite: 👂 heard
   - Decorator: 🎓 known
-  - Flyweight: 
+  - Flyweight: 👂 heard
   - Mediator: 
   - Memento: 
   - Template Method: 
-  - Visitor: 👂 heard
+  - Visitor: 🎓 known
