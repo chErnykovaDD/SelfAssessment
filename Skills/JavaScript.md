@@ -13,10 +13,10 @@
   - ...rest: 🎓 known
   - typeof: 🙋 explained
   - destructuring: 
-  - generator: 
+  - generator: 🎓 known
   - iterator: 🖐️ used
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
   - chaining: 🎓 known
   - optional chaining: 🎓 known
   - IIFE: 🎓 known
@@ -28,12 +28,12 @@
   - prototype: 🙋 explained
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
-  - bitwise operators: 🎓 known
+  - bitwise operators: 🙋 explained
   - ternary operator: 🙋 explained
   - void: 🙋 explained
   - yield: 🎓 known
   - await: 🖐️ used
-  - template literal: 👂 heard
+  - template literal: 🎓 known
   - strict mode: 🙋 explained
   - delete: 🙋 explained
   - in: 🙋 explained
@@ -47,7 +47,7 @@
   - for: 🔬 researched
   - for..in: 🙋 explained
   - for..of: 🙋 explained
-  - for await: 👂 heard
+  - for await: 🎓 known
   - throw: 🔬 researched
   - break: 🔬 researched
   - continue: 🔬 researched
@@ -74,10 +74,10 @@
   - Set: 🙋 explained
   - undefined: 🙋 explained
   - null: 🙋 explained
-  - Proxy: 🎓 known
+  - Proxy: 🖐️ used
   - weak collections: 
   - timers: 🖐️ used
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🎓 known
   - RegExp: 🙋 explained
   - Date: 🖐️ used
   - BigInt: 🖐️ used
