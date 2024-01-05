@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🙋 explained
+  - instanceof: 🖐️ used
+  - ...spread: 🎓 known
+  - ...rest: 🎓 known
+  - typeof: 🙋 explained
+  - destructuring: 
+  - generator: 
+  - iterator: 🖐️ used
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 🎓 known
+  - optional chaining: 🎓 known
+  - IIFE: 🎓 known
+  - global: 🙋 explained
+  - globalThis: 🙋 explained
+  - window: 🙋 explained
+  - getters and setters: 🙋 explained
+  - __proto__: 👂 heard
+  - prototype: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🎓 known
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 🎓 known
+  - await: 🖐️ used
+  - template literal: 👂 heard
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
+  - Reflect: 🖐️ used
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if: 🔬 researched
+  - while: 🔬 researched
+  - do..while: 🔬 researched
+  - for: 🔬 researched
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 👂 heard
+  - throw: 🔬 researched
+  - break: 🔬 researched
+  - continue: 🔬 researched
+  - import: 🔬 researched
+  - export: 🔬 researched
+  - label: 🙋 explained
+  - try..catch: 🙋 explained
+  - switch: 🔬 researched
+  - class: 🔬 researched
+  - new Error: 🙋 explained
+  - with: 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🙋 explained
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array: 🔬 researched
+  - mixin: 
+  - extend: 🖐️ used
+  - typed arrays: 🙋 explained
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 🎓 known
+  - weak collections: 
+  - timers: 🖐️ used
+  - EventEmitter: 👂 heard
+  - RegExp: 🙋 explained
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
+  - MDN: 🖐️ used
